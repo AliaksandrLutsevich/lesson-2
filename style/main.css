@@ -1,0 +1,90 @@
+body {
+    font-size: 0;
+    background: #ffffff;
+}
+
+.wrapper {
+    margin: 0 auto;
+    width: 1160px;
+}
+
+header > h1 {
+    font-size: 0;
+    margin-top: 110px;
+    font-style: normal;
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 42px;
+    font-family: 'Raleway', sans-serif;    
+    text-align: center;
+    color: #212121;
+}
+
+.line {
+    margin-left: 542px;
+    width: 64px;
+    border-top: 1px solid #e72424;
+}
+
+.headertext {
+    margin-top: 35px;
+    font-style: normal;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 19px;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    color: #86878b;
+}
+
+.card {
+    display: inline-block;
+    width: 350px;
+    margin: 0 auto;
+    margin-top: 40px;
+    padding: 16px;
+}
+
+.imgbox {
+    box-sizing: border-box;
+    width: 70px;
+    height: 70px;
+    margin: 0 auto;
+    padding: 23px;
+    border: 1px solid #e72424;
+    border-radius: 50%;
+}
+
+.lamp {
+    background: url(../img/lamp.svg) center no-repeat;
+}
+
+.keyboard {
+    background: url(../img/keyboard.svg) center no-repeat;
+}
+
+.lightning {
+    background: url(../img/lightning.svg) center no-repeat;
+}
+
+.cardtitle {
+    margin-top: 35px;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 27px;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    color: #333333;
+}
+
+.cardtext {
+    font-style: normal;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 19px;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    color: #000000;  
+}
+
